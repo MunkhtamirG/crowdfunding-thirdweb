@@ -1,7 +1,12 @@
 import React from "react";
+import { Route, Routes } from "react-router-dom";
 
-function App() {
-  return <div>App</div>;
-}
+const App = () => {
+  return (
+    <div className="relative sm:-8 p-4 bg-[#13131a] min-h-screen flex flex-row">
+      aaasdass
+    </div>
+  );
+};
 
 export default App;
